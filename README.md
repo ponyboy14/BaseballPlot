@@ -35,3 +35,7 @@ After selecting to add Points, you can either add a player, select an existing p
  - The pitches should now be plotted on the strike zone.
  ### Exiting
  - Selecting this will end the program.
+## Future Goals
+- Tidy up the code with functions so there is not repition in the code.
+- Add more comments to further explain what is going on.
+- Expand to plotting other areas of the sport.
